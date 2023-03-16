@@ -28,19 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label4 = new System.Windows.Forms.Label();
+            this.label_dash = new System.Windows.Forms.Label();
             this.log_out_Button = new Guna.UI.WinForms.GunaGradientTileButton();
             this.SuspendLayout();
             // 
-            // label4
+            // label_dash
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(167, 162);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(119, 41);
-            this.label4.TabIndex = 18;
-            this.label4.Text = "Hello ! ";
+            this.label_dash.AutoSize = true;
+            this.label_dash.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label_dash.Location = new System.Drawing.Point(167, 162);
+            this.label_dash.Name = "label_dash";
+            this.label_dash.Size = new System.Drawing.Size(119, 41);
+            this.label_dash.TabIndex = 18;
+            this.label_dash.Text = "Hello ! ";
             // 
             // log_out_Button
             // 
@@ -76,7 +76,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(736, 569);
             this.Controls.Add(this.log_out_Button);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label_dash);
             this.Name = "dashboard";
             this.Text = "dashboard";
             this.ResumeLayout(false);
@@ -86,7 +86,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label_dash;
         private Guna.UI.WinForms.GunaGradientTileButton log_out_Button;
     }
 }
