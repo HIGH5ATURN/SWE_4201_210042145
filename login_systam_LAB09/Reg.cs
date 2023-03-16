@@ -20,18 +20,20 @@ namespace login_systam_LAB09
         }
 
         int x = 0;
+        public StreamWriter sw = new StreamWriter($"Username.txt");
         private void sign_up_Button_Click(object sender, EventArgs e)
         {
-           
-            if(first_pass_textbox.Text==check_pass_textbox.Text)
+            
+            if (first_pass_textbox.Text==check_pass_textbox.Text)
             {
-                x++;
-                using(StreamWriter sw =  new StreamWriter($"Username{x}.txt"))
-                {
-                    sw.WriteLine(reg_u_name.Text);
-                    sw.WriteLine(first_pass_textbox.Text);
-                    sw.WriteLine(reg_name.Text);
-                }
+
+                  sw.WriteLine(reg_u_name.Text);
+                  sw.WriteLine(first_pass_textbox.Text);
+                  sw.WriteLine(reg_name.Text);  
+              
+                    
+                   
+                    
                 
                 login log = new login();
                 this.Hide();
