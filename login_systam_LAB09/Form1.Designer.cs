@@ -139,12 +139,13 @@
             this.form1_to_reg_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.form1_to_reg_button.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.form1_to_reg_button.ForeColor = System.Drawing.Color.Red;
-            this.form1_to_reg_button.Location = new System.Drawing.Point(279, 492);
+            this.form1_to_reg_button.Location = new System.Drawing.Point(304, 492);
             this.form1_to_reg_button.Name = "form1_to_reg_button";
             this.form1_to_reg_button.Size = new System.Drawing.Size(106, 40);
             this.form1_to_reg_button.TabIndex = 8;
             this.form1_to_reg_button.Text = "Create One!";
             this.form1_to_reg_button.UseVisualStyleBackColor = true;
+            this.form1_to_reg_button.Click += new System.EventHandler(this.form1_to_reg_button_Click);
             // 
             // login
             // 

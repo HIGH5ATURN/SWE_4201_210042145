@@ -21,5 +21,13 @@ namespace login_systam_LAB09
         {
 
         }
+
+        private void form1_to_reg_button_Click(object sender, EventArgs e)
+        {
+            Reg regis= new Reg();
+
+            this.Hide();
+            regis.Show();
+        }
     }
 }

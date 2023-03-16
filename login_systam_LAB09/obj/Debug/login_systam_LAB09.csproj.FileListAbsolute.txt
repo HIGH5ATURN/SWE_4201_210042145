@@ -13,3 +13,18 @@ D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.exe
 D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.pdb
 D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.dashboard.resources
 D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.Reg.resources
+D:\git csharp lab\login_systam_LAB09\bin\Debug\login_systam_LAB09.exe.config
+D:\git csharp lab\login_systam_LAB09\bin\Debug\login_systam_LAB09.exe
+D:\git csharp lab\login_systam_LAB09\bin\Debug\login_systam_LAB09.pdb
+D:\git csharp lab\login_systam_LAB09\bin\Debug\Guna.UI.dll
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.AssemblyReference.cache
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.SuggestedBindingRedirects.cache
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.dashboard.resources
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.login.resources
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.Properties.Resources.resources
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.Reg.resources
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.GenerateResource.cache
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.CoreCompileInputs.cache
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.CopyComplete
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.exe
+D:\git csharp lab\login_systam_LAB09\obj\Debug\login_systam_LAB09.pdb
