@@ -1,0 +1,15 @@
+D:\c#\login_systam_LAB09\bin\Debug\login_systam_LAB09.exe.config
+D:\c#\login_systam_LAB09\bin\Debug\login_systam_LAB09.exe
+D:\c#\login_systam_LAB09\bin\Debug\login_systam_LAB09.pdb
+D:\c#\login_systam_LAB09\bin\Debug\Guna.UI.dll
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.AssemblyReference.cache
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.SuggestedBindingRedirects.cache
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.login.resources
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.Properties.Resources.resources
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.GenerateResource.cache
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.CoreCompileInputs.cache
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.csproj.CopyComplete
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.exe
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.pdb
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.dashboard.resources
+D:\c#\login_systam_LAB09\obj\Debug\login_systam_LAB09.Reg.resources
