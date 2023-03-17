@@ -1,0 +1,15 @@
+D:\c#\login_system\bin\Debug\login_system.exe.config
+D:\c#\login_system\bin\Debug\login_system.exe
+D:\c#\login_system\bin\Debug\login_system.pdb
+D:\c#\login_system\obj\Debug\login_system.csproj.AssemblyReference.cache
+D:\c#\login_system\obj\Debug\login_system.csproj.SuggestedBindingRedirects.cache
+D:\c#\login_system\obj\Debug\login_system.frmRegister.resources
+D:\c#\login_system\obj\Debug\login_system.Properties.Resources.resources
+D:\c#\login_system\obj\Debug\login_system.csproj.GenerateResource.cache
+D:\c#\login_system\obj\Debug\login_system.csproj.CoreCompileInputs.cache
+D:\c#\login_system\obj\Debug\login_system.exe
+D:\c#\login_system\obj\Debug\login_system.pdb
+D:\c#\login_system\bin\Debug\Guna.UI.dll
+D:\c#\login_system\obj\Debug\login_system.csproj.CopyComplete
+D:\c#\login_system\obj\Debug\login_system.dashboard.resources
+D:\c#\login_system\obj\Debug\login_system.frmLogincs.resources
